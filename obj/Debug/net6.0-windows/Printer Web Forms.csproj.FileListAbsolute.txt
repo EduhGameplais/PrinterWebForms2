@@ -1,0 +1,27 @@
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\Printer Web Forms.exe
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\Printer Web Forms.deps.json
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\Printer Web Forms.runtimeconfig.json
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\Printer Web Forms.dll
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\Printer Web Forms.pdb
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer Web Forms.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer Web Forms.AssemblyInfoInputs.cache
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer Web Forms.AssemblyInfo.cs
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer Web Forms.csproj.CoreCompileInputs.cache
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer Web Forms.dll
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\refint\Printer Web Forms.dll
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer Web Forms.pdb
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer Web Forms.genruntimeconfig.cache
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\ref\Printer Web Forms.dll
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\MightyCore.dll
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\MightyCore.pdb
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer Web Forms.csproj.AssemblyReference.cache
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer Web Forms.csproj.CopyComplete
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\Pages\home.html
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\MaterialSkin.dll
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer_Web_Forms.Painel.resources
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer Web Forms.csproj.GenerateResource.cache
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer_Web_Forms.ItemInput.resources
+F:\Projects\CSharp\Printer Web Forms\obj\Debug\net6.0-windows\Printer_Web_Forms.TextInput.resources
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\System.CodeDom.dll
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\System.Management.dll
+F:\Projects\CSharp\Printer Web Forms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Torre 1</title>
+<script src="update.js"></script>
+<script src="tower1.js"></script>
+
+<link rel="stylesheet" href="style.css">
+</head>
+    <body>
+        <div id="popup" class="popup">
+            <p id="popup-text">Esta é uma mensagem de exemplo.</p>
+            <button onclick="hidePopup()">OK</button>
+        </div>
+        <form action="">
+            <div class="maintitle-container">
+                <maintitle id="maintitle">Torre 1</maintitle>
+            </div>
+            
+            <div>
+                
+                <input type="number" placeholder="Número de chapas" id="numchap">
+            </div>
+            <div>
+                <input id="busca" placeholder="Pesquisar Cliente..." onkeyup="filtrarClientes()">
+                <select id="clientes" name="clientes">
+                    <option value="Selecione um cliente">Selecione um cliente</option>
+                </select>
+                
+                
+            </div>
+            <div>
+                <select id="tamanhos" name="tamanhos">
+                    <option value="Selecione um">Tamanho da Caixa</option>
+                </select>
+                <select id="tipos" name="tipos">
+                    <option value="Tipo de Caixa">Tipo de Caixa</option>
+                </select>
+            </div>
+
+            <div class="offsets">
+                <input type="text" name="offset1" id="offset1" value=0 class="offset" onkeyup="addMinus('offset1')">
+            
+                <input type="text" name="offset2" id="offset2" value=0 class="offset" onkeyup="addMinus('offset2')">
+            
+                <input type="text" name="offset3" id="offset3" value=0 class="offset" onkeyup="addMinus('offset3')">
+            </div>
+            <div class="printers">
+                <div class="background-printer">
+                    <input type="button" id="imp01" class="printerbutton" value="IMP 01" onclick="toggleButton('imp01')">
+                    <input type="button" id="imp01-reset" class="resetbutton" value="Reiniciar" onclick="resetPrinting(1)">
+                    <input type="button" id="imp01-cancel" class="resetbutton" value="Cancelar" onclick="cancelPrinting(1)">
+                </div>
+                <div class="background-printer">
+                    <input type="button" id="imp02" class="printerbutton" value="IMP 02" onclick="toggleButton('imp02')">
+                    <input type="button" id="imp02-reset" class="resetbutton" value="Reiniciar" onclick="resetPrinting(2)">
+                    <input type="button" id="imp02-cancel" class="resetbutton" value="Cancelar" onclick="cancelPrinting(2)">
+                </div>
+                <div class="background-printer">
+                    <input type="button" id="imp03" class="printerbutton" value="IMP 03" onclick="toggleButton('imp03')">
+                    <input type="button" id="imp03-reset" class="resetbutton" value="Reiniciar" onclick="resetPrinting(3)">
+                    <input type="button" id="imp03-cancel" class="resetbutton" value="Cancelar" onclick="cancelPrinting(3)">
+                </div>
+            </div>
+            <hr>
+            <hr>
+            <input type="button" name="save" id="save" value="Salvar Offsets" onclick="saveOffsets()">
+            <input type="button" name="print" id="print" value="Imprimir" onclick="sendPrint()">
+        </form>
+    </body>
+</html>

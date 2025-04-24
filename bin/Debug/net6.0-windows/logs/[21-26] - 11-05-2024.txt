@@ -1,0 +1,24 @@
+11/05/2024 - 21:26
+
+21:26.12 - (PrintSystem): Criando Torres... (3)
+21:26.12 - (PrintSystem): Criando Impressoras... (3)
+21:26.12 - (PrintSystem):     Torre1: 
+21:26.12 - (PrintSystem):         Impressora1: IMP1
+21:26.12 - (PrintSystem):         Impressora2: IMP2
+21:26.13 - (PrintSystem):         Impressora3: IMP3
+21:26.13 - (PrintSystem):     Torre2: 
+21:26.13 - (PrintSystem):         Impressora1: IMP4
+21:26.13 - (PrintSystem):         Impressora2: IMP5
+21:26.13 - (PrintSystem):         Impressora3: IMP6
+21:26.13 - (PrintSystem):     Torre3: 
+21:26.13 - (PrintSystem):         Impressora1: IMP7
+21:26.13 - (PrintSystem):         Impressora2: IMP8
+21:26.13 - (PrintSystem):         Impressora3: IMP9
+21:26.13 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+21:26.13 - (PrintSystem): Encontrado:
+21:26.13 - (PrintSystem):     "Rei da pizza"
+21:26.13 - (SaveSystem): Carregando configurações salvas...
+21:26.13 - (SaveSystem): Arquivos de configurações salvas encontrados: 
+21:26.13 - (SaveSystem):     "Saved\offsets.sdat"
+21:26.13 - (SaveSystem):     "Saved\sizes.sdat"
+21:26.13 - (PrintSystem): Erro ao tentar carregar os tipos salvos. (Arquivo inexistente ou vázio.)

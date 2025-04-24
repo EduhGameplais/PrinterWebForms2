@@ -1,0 +1,139 @@
+28/06/2024 - 21:16
+
+21:16.55 - (PrintSystem): Criando Torres... (3)
+21:16.55 - (PrintSystem): Criando Impressoras... (3)
+21:16.55 - (PrintSystem):     Torre1: 
+21:16.55 - (PrintSystem):         Impressora1: IMP1
+21:16.55 - (PrintSystem):         Impressora2: IMP2
+21:16.55 - (PrintSystem):         Impressora3: IMP3
+21:16.55 - (PrintSystem):     Torre2: 
+21:16.55 - (PrintSystem):         Impressora1: IMP4
+21:16.55 - (PrintSystem):         Impressora2: IMP5
+21:16.55 - (PrintSystem):         Impressora3: IMP6
+21:16.55 - (PrintSystem):     Torre3: 
+21:16.55 - (PrintSystem):         Impressora1: IMP7
+21:16.55 - (PrintSystem):         Impressora2: IMP8
+21:16.55 - (PrintSystem):         Impressora3: IMP9
+21:16.55 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+21:16.56 - (SaveSystem): Carregando configurações salvas...
+21:16.56 - (SaveSystem): Arquivos de configurações salvas encontrados: 
+21:16.56 - (SaveSystem):     "Saved\offsets.sdat"
+21:16.56 - (SaveSystem):     "Saved\sizes.sdat"
+21:16.56 - (SaveSystem):     "Saved\types.sdat"
+21:16.56 - (WebService): Iniciando Endpoints
+21:16.56 - (WebService): Porta: 80
+21:16.59 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+21:18.02 - (WebService): Request de '192.168.3.36:56964' no endpoint '/'.
+21:18.02 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+21:18.03 - (WebService): Request de '192.168.3.36:56966' no endpoint '/'.
+21:18.03 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+21:18.04 - (WebService): Request de '192.168.3.36:56967' no endpoint '/'.
+21:18.04 - (WebService): Request of '192.168.3.36:56967' at '/favicon.ico' endpoint. (404)
+21:18.08 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+21:18.09 - (WebService): Request de '192.168.3.36:56967' no endpoint '/tower1'.
+21:18.09 - (WebService): Request de '192.168.3.36:56967' no endpoint '/update.js'.
+21:18.09 - (WebService): Request de '192.168.3.36:57011' no endpoint '/style.css'.
+21:18.09 - (WebService): Request de '192.168.3.36:57012' no endpoint '/tower1.js'.
+21:18.09 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+21:18.09 - (WebService): Request de '192.168.3.36:57012' no endpoint '/clientes'.
+21:18.09 - (WebService): Request de '192.168.3.36:57011' no endpoint '/tamanhos'.
+21:18.09 - (WebService): Request de '192.168.3.36:57014' no endpoint '/offset'.
+21:18.09 - (WebService): Request de '192.168.3.36:56967' no endpoint '/tipos'.
+21:18.09 - (WebService): Request of '192.168.3.36:57015' at '/favicon.ico' endpoint. (404)
+21:18.28 - (WebService): Request de '192.168.3.36:57015' no endpoint '/style.css'.
+21:18.52 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\Media-Media-PizzaOitavada.png
+21:18.52 - (WebService): Request de '192.168.3.36:57015' no endpoint '/edit'.
+21:18.52 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:18.52 - (WebService): Request de '192.168.3.36:56967' no endpoint '/print'.
+21:19.10 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\Media-Media-PizzaOitavada.png
+21:19.10 - (WebService): Request de '192.168.3.36:56967' no endpoint '/edit'.
+21:19.10 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:19.10 - (WebService): Request de '192.168.3.36:57015' no endpoint '/print'.
+21:19.18 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\Media-Media-PizzaOitavada.png
+21:19.18 - (WebService): Request de '192.168.3.36:57015' no endpoint '/edit'.
+21:19.18 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:19.18 - (WebService): Request de '192.168.3.36:56967' no endpoint '/print'.
+21:19.25 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\Media-Media-PizzaOitavada.png
+21:19.25 - (WebService): Request de '192.168.3.36:56967' no endpoint '/edit'.
+21:19.25 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:19.25 - (WebService): Request de '192.168.3.36:57015' no endpoint '/print'.
+21:19.27 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\Media-Media-PizzaOitavada.png
+21:19.27 - (WebService): Request de '192.168.3.36:57015' no endpoint '/edit'.
+21:19.27 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:19.27 - (WebService): Request de '192.168.3.36:56967' no endpoint '/print'.
+21:19.27 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\Media-Media-PizzaOitavada.png
+21:19.27 - (WebService): Request de '192.168.3.36:56967' no endpoint '/edit'.
+21:19.27 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:19.27 - (WebService): Request de '192.168.3.36:57015' no endpoint '/print'.
+21:19.27 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\Media-Media-PizzaOitavada.png
+21:19.27 - (WebService): Request de '192.168.3.36:57015' no endpoint '/edit'.
+21:19.27 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:19.27 - (WebService): Request de '192.168.3.36:56967' no endpoint '/print'.
+21:19.27 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\Media-Media-PizzaOitavada.png
+21:19.27 - (WebService): Request de '192.168.3.36:56967' no endpoint '/edit'.
+21:19.27 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:19.27 - (WebService): Request de '192.168.3.36:57015' no endpoint '/print'.
+21:19.28 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\Media-Media-PizzaOitavada.png
+21:19.28 - (WebService): Request de '192.168.3.36:57015' no endpoint '/edit'.
+21:19.28 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:19.28 - (WebService): Request de '192.168.3.36:56967' no endpoint '/print'.
+21:19.28 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\Media-Media-PizzaOitavada.png
+21:19.28 - (WebService): Request de '192.168.3.36:56967' no endpoint '/edit'.
+21:19.28 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:19.28 - (WebService): Request de '192.168.3.36:57015' no endpoint '/print'.
+21:19.58 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+21:20.01 - (WebService): Request de '192.168.3.36:57015' no endpoint '/print'.
+21:20.20 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:20.20 - (WebService): Request de '192.168.3.36:57015' no endpoint '/print'.
+21:20.20 - (WebService): Request of '192.168.3.36:57015' at '/favicon.ico' endpoint. (404)
+21:21.08 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+21:22.03 - (WebService): Request de '35.205.205.158:48390' no endpoint '/'.
+21:22.03 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+21:22.03 - (WebService): Request de '192.168.3.36:57015' no endpoint '/tower1'.
+21:22.03 - (WebService): Request de '192.168.3.36:57015' no endpoint '/update.js'.
+21:22.03 - (WebService): Request de '192.168.3.36:57164' no endpoint '/tower1.js'.
+21:22.03 - (WebService): Request de '192.168.3.36:57165' no endpoint '/style.css'.
+21:22.03 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+21:22.03 - (WebService): Request de '192.168.3.36:57165' no endpoint '/clientes'.
+21:22.03 - (WebService): Request de '192.168.3.36:57164' no endpoint '/tamanhos'.
+21:22.03 - (WebService): Request de '192.168.3.36:57015' no endpoint '/tipos'.
+21:22.03 - (WebService): Request de '192.168.3.36:57166' no endpoint '/offset'.
+21:22.03 - (WebService): Request of '192.168.3.36:57166' at '/favicon.ico' endpoint. (404)
+21:22.10 - (WebService): Request de '192.168.3.36:57166' no endpoint '/style.css'.
+21:22.32 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\Media-Media-PizzaOitavada.png
+21:22.32 - (WebService): Request de '192.168.3.36:57166' no endpoint '/edit'.
+21:22.32 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:22.32 - (WebService): Request de '192.168.3.36:57015' no endpoint '/print'.

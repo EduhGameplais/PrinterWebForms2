@@ -1,0 +1,30 @@
+07/05/2024 - 17:42
+
+Criando Torres... (3)
+Criando Impressoras... (3)
+    Torre1: 
+        Impressora1: IMP1
+        Impressora2: IMP2
+    Torre2: 
+        Impressora1: IMP3
+        Impressora2: IMP4
+Iniciando Endpoints
+Porta: 80
+Tentando imprimir na impressora 1 da torre 1
+17:42.44 - Ocorreu um erro em 'PrintSystem.Print' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Settings to access printer 'IMP1' are not valid.
+Source: System.Drawing.Common
+StackTrace: 
+   at System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal(String printer)
+   at System.Drawing.Printing.PrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.StandardPrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at Printer_Web.Printer.Print(PaperSettings printingConfig) in F:\Projects\CSharp\Printer Web Forms\Printers\Printer.cs:line 35
+   at Printer_Web.PrintSystem.Print(Byte tower, Byte printer) in F:\Projects\CSharp\Printer Web Forms\PrintSystem.cs:line 58
+
+Culpado: GetHdevmodeInternal()
+Request de'192.168.3.156:57017' no endpoint '/print'.
+Request of '192.168.3.156:57017' at '/favicon.ico' endpoint. (404)

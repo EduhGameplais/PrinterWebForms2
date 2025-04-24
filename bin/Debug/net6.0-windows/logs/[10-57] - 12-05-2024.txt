@@ -1,0 +1,25 @@
+12/05/2024 - 10:57
+
+10:57.03 - (PrintSystem): Criando Torres... (3)
+10:57.03 - (PrintSystem): Criando Impressoras... (3)
+10:57.03 - (PrintSystem):     Torre1: 
+10:57.03 - (PrintSystem):         Impressora1: IMP1
+10:57.03 - (PrintSystem):         Impressora2: IMP2
+10:57.03 - (PrintSystem):         Impressora3: IMP3
+10:57.03 - (PrintSystem):     Torre2: 
+10:57.03 - (PrintSystem):         Impressora1: IMP4
+10:57.03 - (PrintSystem):         Impressora2: IMP5
+10:57.03 - (PrintSystem):         Impressora3: IMP6
+10:57.03 - (PrintSystem):     Torre3: 
+10:57.03 - (PrintSystem):         Impressora1: IMP7
+10:57.03 - (PrintSystem):         Impressora2: IMP8
+10:57.03 - (PrintSystem):         Impressora3: IMP9
+10:57.03 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+10:57.03 - (PrintSystem): Encontrado:
+10:57.03 - (PrintSystem):     "Rei da pizza"
+10:57.03 - (SaveSystem): Carregando configurações salvas...
+10:57.03 - (SaveSystem): Arquivos de configurações salvas encontrados: 
+10:57.03 - (SaveSystem):     "Saved\offsets.sdat"
+10:57.03 - (SaveSystem):     "Saved\sizes.sdat"
+10:57.03 - (SaveSystem): Arquivos não encontrados: 
+10:57.03 - (SaveSystem):     "Saved\types.sdat"

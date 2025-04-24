@@ -1,0 +1,110 @@
+15/05/2024 - 09:31
+
+09:31.55 - (PrintSystem): Criando Torres... (3)
+09:31.55 - (PrintSystem): Criando Impressoras... (3)
+09:31.55 - (PrintSystem):     Torre1: 
+09:31.55 - (PrintSystem):         Impressora1: IMP1
+09:31.55 - (PrintSystem):         Impressora2: IMP2
+09:31.55 - (PrintSystem):         Impressora3: IMP3
+09:31.55 - (PrintSystem):     Torre2: 
+09:31.55 - (PrintSystem):         Impressora1: IMP4
+09:31.55 - (PrintSystem):         Impressora2: IMP5
+09:31.55 - (PrintSystem):         Impressora3: IMP6
+09:31.55 - (PrintSystem):     Torre3: 
+09:31.55 - (PrintSystem):         Impressora1: IMP7
+09:31.55 - (PrintSystem):         Impressora2: IMP8
+09:31.55 - (PrintSystem):         Impressora3: IMP9
+09:31.55 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+09:31.55 - (PrintSystem): Encontrado:
+09:31.55 - (PrintSystem):     "Rei da pizza"
+09:31.55 - (PrintSystem):     "Rps Entre Rios"
+09:31.55 - (SaveSystem): Carregando configurações salvas...
+09:31.55 - (SaveSystem): Arquivos de configurações salvas encontrados: 
+09:31.55 - (SaveSystem):     "Saved\offsets.sdat"
+09:31.55 - (SaveSystem):     "Saved\sizes.sdat"
+09:31.55 - (SaveSystem):     "Saved\types.sdat"
+09:31.55 - (WebService): Iniciando Endpoints
+09:31.55 - (WebService): Porta: 80
+09:32.06 - (WebService): Request de '192.168.3.19:52211' no endpoint '/clientes'.
+09:32.06 - (WebService): Request de '192.168.3.19:52212' no endpoint '/tamanhos'.
+09:32.06 - (WebService): Request de '192.168.3.19:52213' no endpoint '/tipos'.
+09:32.08 - (WebService): Request de '192.168.3.19:52213' no endpoint '/print/restart'.
+09:32.09 - Ocorreu um erro em 'CancelPrint.CancelPrinting' Mensagem de Erro: 'Ocorreu um erro ao reiniciar a impressão da impressora: (IMP2)'
+Informações:
+
+Erro: O nome da impressora é inválido.
+Source: Printer Web Forms
+StackTrace: 
+   at Printer_Web_Forms.CancelPrint.GetPrintJobs(String printerName) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 111
+   at Printer_Web_Forms.CancelPrint.CancelPrinting(HttpListenerRequest request) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 29
+
+Culpado: GetPrintJobs()
+09:32.09 - (CancelPrint): Erro ao reiniciar impressão:O nome da impressora é inválido.
+09:32.09 - (WebService): Request de '192.168.3.19:52213' no endpoint '/print/restart'.
+09:32.19 - (Edit): C:\Users\Edu\Documents\FakeImages\--.png
+09:32.19 - (WebService): Request de '192.168.3.19:52213' no endpoint '/edit'.
+09:32.19 - (Edit): C:\Users\Edu\Documents\FakeImages\--.png
+09:32.19 - (WebService): Request de '192.168.3.19:52212' no endpoint '/edit'.
+09:32.19 - (Edit): C:\Users\Edu\Documents\FakeImages\--.png
+09:32.19 - (WebService): Request de '192.168.3.19:52211' no endpoint '/edit'.
+09:33.19 - Ocorreu um erro em 'CancelPrint.CancelPrinting' Mensagem de Erro: 'Ocorreu um erro ao reiniciar a impressão da impressora: (IMP3)'
+Informações:
+
+Erro: O nome da impressora é inválido.
+Source: Printer Web Forms
+StackTrace: 
+   at Printer_Web_Forms.CancelPrint.GetPrintJobs(String printerName) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 111
+   at Printer_Web_Forms.CancelPrint.CancelPrinting(HttpListenerRequest request) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 29
+
+Culpado: GetPrintJobs()
+09:33.19 - (CancelPrint): Erro ao reiniciar impressão:O nome da impressora é inválido.
+09:33.19 - (WebService): Request de '192.168.3.19:52211' no endpoint '/print/restart'.
+09:33.52 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+09:33.52 - (WebService): Request de '[::1]:52226' no endpoint '/print/restart'.
+09:34.28 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+09:34.28 - (WebService): Request de '[::1]:52226' no endpoint '/print/restart'.
+09:36.59 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+09:36.59 - (PrintSystem): Encontrado:
+09:36.59 - (PrintSystem):     "Rei da pizza"
+09:36.59 - (PrintSystem):     "Rps Entre Rios"
+09:36.59 - (WebService): Request de '185.224.128.43:51454' no endpoint '/'.
+09:40.07 - (WebService): Request de '192.168.3.19:52282' no endpoint '/print/restart'.
+09:40.09 - Ocorreu um erro em 'CancelPrint.CancelPrinting' Mensagem de Erro: 'Ocorreu um erro ao reiniciar a impressão da impressora: (IMP2)'
+Informações:
+
+Erro: O nome da impressora é inválido.
+Source: Printer Web Forms
+StackTrace: 
+   at Printer_Web_Forms.CancelPrint.GetPrintJobs(String printerName) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 111
+   at Printer_Web_Forms.CancelPrint.CancelPrinting(HttpListenerRequest request) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 29
+
+Culpado: GetPrintJobs()
+09:40.09 - (CancelPrint): Erro ao reiniciar impressão:O nome da impressora é inválido.
+09:40.09 - (WebService): Request de '192.168.3.19:52282' no endpoint '/print/restart'.
+10:19.14 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+10:19.14 - (PrintSystem): Encontrado:
+10:19.14 - (PrintSystem):     "Rei da pizza"
+10:19.14 - (PrintSystem):     "Rps Entre Rios"
+10:19.15 - (WebService): Request de '185.16.38.111:60984' no endpoint '/'.

@@ -1,0 +1,22 @@
+09/05/2024 - 17:29
+
+17:29.02 - (PrintSystem): Criando Torres... (3)
+17:29.02 - (PrintSystem): Criando Impressoras... (3)
+17:29.02 - (PrintSystem):     Torre1: 
+17:29.02 - (PrintSystem):         Impressora1: IMP1
+17:29.02 - (PrintSystem):         Impressora2: IMP2
+17:29.02 - (PrintSystem):         Impressora3: IMP3
+17:29.02 - (PrintSystem):     Torre2: 
+17:29.02 - (PrintSystem):         Impressora1: IMP4
+17:29.02 - (PrintSystem):         Impressora2: IMP5
+17:29.02 - (PrintSystem):         Impressora3: IMP6
+17:29.02 - (PrintSystem):     Torre3: 
+17:29.02 - (PrintSystem):         Impressora1: IMP7
+17:29.02 - (PrintSystem):         Impressora2: IMP8
+17:29.02 - (PrintSystem):         Impressora3: IMP9
+17:29.02 - (PrintSystem): 
+17:29.02 - (WebService): Iniciando Endpoints
+17:29.02 - (WebService): Porta: 80
+17:31.46 - (WebService): Request de '192.168.3.240:50347' no endpoint '/clientes'.
+17:31.46 - (WebService): Request de '192.168.3.240:50348' no endpoint '/tamanhos'.
+17:31.46 - (WebService): Request de '192.168.3.240:50349' no endpoint '/tipos'.

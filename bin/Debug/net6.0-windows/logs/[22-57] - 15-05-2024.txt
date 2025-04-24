@@ -1,0 +1,82 @@
+15/05/2024 - 18:50
+
+18:50.15 - (PrintSystem): Criando Torres... (3)
+18:50.15 - (PrintSystem): Criando Impressoras... (3)
+18:50.15 - (PrintSystem):     Torre1: 
+18:50.15 - (PrintSystem):         Impressora1: IMP1
+18:50.15 - (PrintSystem):         Impressora2: IMP2
+18:50.15 - (PrintSystem):         Impressora3: IMP3
+18:50.15 - (PrintSystem):     Torre2: 
+18:50.15 - (PrintSystem):         Impressora1: IMP4
+18:50.15 - (PrintSystem):         Impressora2: IMP5
+18:50.15 - (PrintSystem):         Impressora3: IMP6
+18:50.15 - (PrintSystem):     Torre3: 
+18:50.15 - (PrintSystem):         Impressora1: IMP7
+18:50.15 - (PrintSystem):         Impressora2: IMP8
+18:50.15 - (PrintSystem):         Impressora3: IMP9
+18:50.15 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+18:50.15 - (PrintSystem): Encontrado:
+18:50.15 - (PrintSystem):     "Rei da pizza"
+18:50.15 - (PrintSystem):     "Rps Entre Rios"
+18:50.15 - (SaveSystem): Carregando configurações salvas...
+18:50.15 - (SaveSystem): Arquivos de configurações salvas encontrados: 
+18:50.15 - (SaveSystem):     "Saved\offsets.sdat"
+18:50.15 - (SaveSystem):     "Saved\sizes.sdat"
+18:50.15 - (SaveSystem):     "Saved\types.sdat"
+18:50.15 - (WebService): Iniciando Endpoints
+18:50.15 - (WebService): Porta: 80
+18:50.17 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+18:50.17 - (PrintSystem): Encontrado:
+18:50.17 - (PrintSystem):     "Rei da pizza"
+18:50.17 - (PrintSystem):     "Rps Entre Rios"
+18:50.17 - (WebService): Request de '127.0.0.1:52362' no endpoint '/'.
+18:50.17 - (WebService): Request de '127.0.0.1:52362' no endpoint '/update.js'.
+18:50.17 - (WebService): Request de '127.0.0.1:52363' no endpoint '/tower1.js'.
+18:50.17 - (WebService): Request de '127.0.0.1:52364' no endpoint '/style.css'.
+18:50.18 - (WebService): Request de '192.168.3.19:52365' no endpoint '/clientes'.
+18:50.18 - (WebService): Request de '192.168.3.19:52367' no endpoint '/tamanhos'.
+18:50.18 - (WebService): Request de '192.168.3.19:52368' no endpoint '/tipos'.
+18:50.18 - (WebService): Request of '127.0.0.1:52364' at '/favicon.ico' endpoint. (404)
+18:50.27 - (WebService): Request de '192.168.3.19:52368' no endpoint '/print/restart'.
+18:50.31 - Ocorreu um erro em 'CancelPrint.CancelPrinting' Mensagem de Erro: 'Ocorreu um erro ao reiniciar a impressão da impressora: (IMP2)'
+Informações:
+
+Erro: O nome da impressora é inválido.
+Source: Printer Web Forms
+StackTrace: 
+   at Printer_Web_Forms.CancelPrint.GetPrintJobs(String printerName) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 112
+   at Printer_Web_Forms.CancelPrint.CancelPrinting(HttpListenerRequest request) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 29
+
+Culpado: GetPrintJobs()
+18:50.31 - (CancelPrint): Erro ao reiniciar impressão:O nome da impressora é inválido.
+18:50.31 - (WebService): Request de '192.168.3.19:52368' no endpoint '/print/restart'.
+18:50.40 - Ocorreu um erro em 'CancelPrint.CancelPrinting' Mensagem de Erro: 'Ocorreu um erro ao reiniciar a impressão da impressora: (IMP3)'
+Informações:
+
+Erro: O nome da impressora é inválido.
+Source: Printer Web Forms
+StackTrace: 
+   at Printer_Web_Forms.CancelPrint.GetPrintJobs(String printerName) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 112
+   at Printer_Web_Forms.CancelPrint.CancelPrinting(HttpListenerRequest request) in F:\Projects\CSharp\Printer Web Forms\CancelPrint.cs:line 29
+
+Culpado: GetPrintJobs()
+18:50.40 - (CancelPrint): Erro ao reiniciar impressão:O nome da impressora é inválido.
+18:50.40 - (WebService): Request de '192.168.3.19:52368' no endpoint '/print/restart'.
+18:51.34 - (Edit): C:\Users\Edu\Documents\FakeImages\Rps Entre Rios-Media-PizzaOitavada.png
+18:51.34 - (WebService): Request de '192.168.3.19:52368' no endpoint '/edit'.
+18:51.34 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+18:51.40 - (WebService): Request de '192.168.3.19:52367' no endpoint '/print'.
+18:55.15 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+18:55.15 - (PrintSystem): Encontrado:
+18:55.15 - (PrintSystem):     "Rei da pizza"
+18:55.15 - (PrintSystem):     "Rps Entre Rios"
+18:55.15 - (WebService): Request de '46.31.78.145:35214' no endpoint '/'.
+19:13.51 - (WebService): Request of '103.182.19.92:54712' at '/.most/nas_sharing.cgi?user=messagebus&passwd=&cmd=15&system=cHMJfAlncmVwCW15ZGxpbms=' endpoint. (404)
+19:13.51 - (WebService): Request of '103.182.19.92:54712' at '/cgi-bin/nas_sharing.cgi?user=messagebus&passwd=&cmd=15&system=cHMJfAlncmVwCW15ZGxpbms=' endpoint. (404)
+19:13.51 - (WebService): Request of '103.182.19.92:54712' at '/cgi-bin/orospucoc.cgi?user=messagebus&passwd=&cmd=15&system=cHMJfAlncmVwCW15ZGxpbms=' endpoint. (404)
+19:13.52 - (WebService): Request of '103.182.19.92:54712' at '/.most/orospucoc.cgi?user=messagebus&passwd=&cmd=15&system=cHMJfAlncmVwCW15ZGxpbms=' endpoint. (404)
+19:48.25 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+19:48.25 - (PrintSystem): Encontrado:
+19:48.25 - (PrintSystem):     "Rei da pizza"
+19:48.25 - (PrintSystem):     "Rps Entre Rios"
+19:48.25 - (WebService): Request de '179.43.188.110:42822' no endpoint '/'.

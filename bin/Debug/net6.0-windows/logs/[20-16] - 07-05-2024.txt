@@ -1,0 +1,24 @@
+07/05/2024 - 20:13
+
+20:13.13 - (PrintSystem): Criando Torres... (3)
+20:13.13 - (PrintSystem): Criando Impressoras... (3)
+20:13.13 - (PrintSystem):     Torre1: 
+20:13.13 - (PrintSystem):         Impressora1: IMP1
+20:13.13 - (PrintSystem):         Impressora2: IMP2
+20:13.13 - (PrintSystem):         Impressora3: IMP3
+20:13.13 - (PrintSystem):     Torre2: 
+20:13.13 - (PrintSystem):         Impressora1: IMP4
+20:13.13 - (PrintSystem):         Impressora2: IMP5
+20:13.13 - (PrintSystem):         Impressora3: IMP6
+20:13.13 - (PrintSystem):     Torre3: 
+20:13.13 - (PrintSystem):         Impressora1: IMP7
+20:13.13 - (PrintSystem):         Impressora2: IMP8
+20:13.13 - (PrintSystem):         Impressora3: IMP9
+20:13.13 - (WebService): Iniciando Endpoints
+20:13.13 - (WebService): Porta: 80
+20:13.13 - (WebService): Request de'192.168.3.156:57079' no endpoint '/'.
+20:13.13 - (WebService): Request of '192.168.3.156:57079' at '/favicon.ico' endpoint. (404)
+20:13.47 - (WebService): Request de'192.168.3.156:57079' no endpoint '/'.
+20:13.47 - (WebService): Request of '192.168.3.156:57079' at '/favicon.ico' endpoint. (404)
+20:13.55 - (WebService): Request de'192.168.3.156:57079' no endpoint '/'.
+20:13.55 - (WebService): Request of '192.168.3.156:57079' at '/favicon.ico' endpoint. (404)

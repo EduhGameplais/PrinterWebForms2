@@ -1,0 +1,36 @@
+12/05/2024 - 10:54
+
+10:54.43 - (PrintSystem): Criando Torres... (3)
+10:54.43 - (PrintSystem): Criando Impressoras... (3)
+10:54.43 - (PrintSystem):     Torre1: 
+10:54.43 - (PrintSystem):         Impressora1: IMP1
+10:54.43 - (PrintSystem):         Impressora2: IMP2
+10:54.43 - (PrintSystem):         Impressora3: IMP3
+10:54.43 - (PrintSystem):     Torre2: 
+10:54.43 - (PrintSystem):         Impressora1: IMP4
+10:54.43 - (PrintSystem):         Impressora2: IMP5
+10:54.43 - (PrintSystem):         Impressora3: IMP6
+10:54.43 - (PrintSystem):     Torre3: 
+10:54.43 - (PrintSystem):         Impressora1: IMP7
+10:54.43 - (PrintSystem):         Impressora2: IMP8
+10:54.43 - (PrintSystem):         Impressora3: IMP9
+10:54.43 - (PrintSystem): Procurando por clientes...(C:\Users\Edu\Documents\FakeImages)
+10:54.43 - (PrintSystem): Encontrado:
+10:54.43 - (PrintSystem):     "Rei da pizza"
+10:54.43 - (SaveSystem): Carregando configurações salvas...
+10:54.43 - (SaveSystem): Arquivos de configurações salvas encontrados: 
+10:54.43 - (SaveSystem):     "Saved\offsets.sdat"
+10:54.43 - (SaveSystem):     "Saved\sizes.sdat"
+10:54.43 - (SaveSystem): Arquivos não encontrados: 
+10:54.43 - (SaveSystem):     "Saved\types.sdat"
+10:54.43 - (PrintSystem): Erro ao tentar carregar os tipos salvos. (Arquivo inexistente ou vázio.)
+10:54.45 - Ocorreu um erro em 'Painel.materialButton1_Click' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Object reference not set to an instance of an object.
+Source: Printer Web Forms
+StackTrace: 
+   at Printer_Web_Forms.Painel.materialButton1_Click(Object sender, EventArgs e) in F:\Projects\CSharp\Printer Web Forms\Painel.cs:line 40
+
+Culpado: materialButton1_Click()
+10:55.54 - (PrintSystem): Os tamanhos foram editados.

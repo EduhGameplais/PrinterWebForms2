@@ -1,0 +1,15 @@
+07/05/2024 - 17:42
+
+Criando Torres... (3)
+Criando Impressoras... (3)
+    Torre1: 
+        Impressora1: IMP1
+        Impressora2: IMP2
+    Torre2: 
+        Impressora1: IMP3
+        Impressora2: IMP4
+Iniciando Endpoints
+Porta: 80
+Tentando imprimir na impressora 1 da torre 1
+Request de'192.168.3.156:57013' no endpoint '/print'.
+Request of '192.168.3.156:57013' at '/favicon.ico' endpoint. (404)

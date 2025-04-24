@@ -1,0 +1,77 @@
+01/07/2024 - 18:04
+
+18:04.40 - (PrintSystem): Criando Torres... (3)
+18:04.40 - (PrintSystem): Criando Impressoras... (3)
+18:04.40 - (PrintSystem):     Torre1: 
+18:04.40 - (PrintSystem):         Impressora1: IMP1
+18:04.40 - (PrintSystem):         Impressora2: IMP2
+18:04.40 - (PrintSystem):         Impressora3: IMP3
+18:04.40 - (PrintSystem):     Torre2: 
+18:04.40 - (PrintSystem):         Impressora1: IMP4
+18:04.40 - (PrintSystem):         Impressora2: IMP5
+18:04.40 - (PrintSystem):         Impressora3: IMP6
+18:04.40 - (PrintSystem):     Torre3: 
+18:04.40 - (PrintSystem):         Impressora1: IMP7
+18:04.40 - (PrintSystem):         Impressora2: IMP8
+18:04.40 - (PrintSystem):         Impressora3: IMP9
+18:04.40 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+18:04.42 - (SaveSystem): Carregando configurações salvas...
+18:04.42 - (SaveSystem): Arquivos de configurações salvas encontrados: 
+18:04.42 - (SaveSystem):     "Saved\offsets.sdat"
+18:04.42 - (SaveSystem):     "Saved\sizes.sdat"
+18:04.42 - (SaveSystem):     "Saved\types.sdat"
+18:04.42 - (WebService): Iniciando Endpoints
+18:04.42 - (WebService): Porta: 80
+18:05.02 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+18:05.06 - (WebService): Request de '127.0.0.1:61419' no endpoint '/'.
+18:05.07 - (WebService): Request of '127.0.0.1:61419' at '/favicon.ico' endpoint. (404)
+18:05.08 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+18:05.09 - (WebService): Request de '127.0.0.1:61419' no endpoint '/tower1'.
+18:05.09 - (WebService): Request de '127.0.0.1:61419' no endpoint '/update.js'.
+18:05.09 - (WebService): Request de '127.0.0.1:61422' no endpoint '/style.css'.
+18:05.09 - (WebService): Request de '127.0.0.1:61423' no endpoint '/tower1.js'.
+18:05.09 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+18:05.09 - (WebService): Request de '127.0.0.1:61423' no endpoint '/clientes'.
+18:05.09 - (WebService): Request de '127.0.0.1:61422' no endpoint '/tamanhos'.
+18:05.09 - (WebService): Request de '127.0.0.1:61424' no endpoint '/offset'.
+18:05.09 - (WebService): Request de '127.0.0.1:61419' no endpoint '/tipos'.
+18:05.09 - (WebService): Request of '127.0.0.1:61425' at '/favicon.ico' endpoint. (404)
+18:05.15 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\--.png
+18:05.15 - (WebService): Request de '127.0.0.1:61425' no endpoint '/edit'.
+18:05.15 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\--.png
+18:05.15 - (WebService): Request de '127.0.0.1:61419' no endpoint '/edit'.
+18:05.15 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\--.png
+18:05.15 - (WebService): Request de '127.0.0.1:61424' no endpoint '/edit'.
+18:05.17 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+18:05.18 - (WebService): Request de '127.0.0.1:61424' no endpoint '/tower1'.
+18:05.18 - (WebService): Request de '127.0.0.1:61424' no endpoint '/update.js'.
+18:05.18 - (WebService): Request de '127.0.0.1:61419' no endpoint '/tower1.js'.
+18:05.18 - (WebService): Request de '127.0.0.1:61424' no endpoint '/style.css'.
+18:05.18 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+18:05.18 - (WebService): Request de '127.0.0.1:61424' no endpoint '/clientes'.
+18:05.18 - (WebService): Request de '127.0.0.1:61419' no endpoint '/tamanhos'.
+18:05.18 - (WebService): Request de '127.0.0.1:61425' no endpoint '/tipos'.
+18:05.18 - (WebService): Request de '127.0.0.1:61422' no endpoint '/offset'.
+18:05.18 - (WebService): Request of '127.0.0.1:61423' at '/favicon.ico' endpoint. (404)

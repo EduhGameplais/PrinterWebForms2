@@ -1,0 +1,168 @@
+01/07/2024 - 18:05
+
+18:05.26 - (PrintSystem): Criando Torres... (3)
+18:05.26 - (PrintSystem): Criando Impressoras... (3)
+18:05.26 - (PrintSystem):     Torre1: 
+18:05.26 - (PrintSystem):         Impressora1: IMP1
+18:05.26 - (PrintSystem):         Impressora2: IMP2
+18:05.26 - (PrintSystem):         Impressora3: IMP3
+18:05.26 - (PrintSystem):     Torre2: 
+18:05.26 - (PrintSystem):         Impressora1: IMP4
+18:05.26 - (PrintSystem):         Impressora2: IMP5
+18:05.26 - (PrintSystem):         Impressora3: IMP6
+18:05.26 - (PrintSystem):     Torre3: 
+18:05.26 - (PrintSystem):         Impressora1: IMP7
+18:05.26 - (PrintSystem):         Impressora2: IMP8
+18:05.26 - (PrintSystem):         Impressora3: IMP9
+18:05.26 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+18:05.28 - (SaveSystem): Carregando configurações salvas...
+18:05.28 - (SaveSystem): Arquivos de configurações salvas encontrados: 
+18:05.28 - (SaveSystem):     "Saved\offsets.sdat"
+18:05.28 - (SaveSystem):     "Saved\sizes.sdat"
+18:05.28 - (SaveSystem):     "Saved\types.sdat"
+18:05.28 - (WebService): Iniciando Endpoints
+18:05.28 - (WebService): Porta: 80
+18:05.30 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+18:05.33 - (WebService): Request de '127.0.0.1:61432' no endpoint '/tower1'.
+18:05.33 - (WebService): Request de '127.0.0.1:61432' no endpoint '/update.js'.
+18:05.33 - (WebService): Request de '127.0.0.1:61438' no endpoint '/tower1.js'.
+18:05.33 - (WebService): Request de '127.0.0.1:61439' no endpoint '/style.css'.
+18:05.33 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+18:05.33 - (WebService): Request de '127.0.0.1:61439' no endpoint '/clientes'.
+18:05.33 - (WebService): Request de '127.0.0.1:61438' no endpoint '/tamanhos'.
+18:05.33 - (WebService): Request de '127.0.0.1:61432' no endpoint '/tipos'.
+18:05.33 - (WebService): Request de '127.0.0.1:61440' no endpoint '/offset'.
+18:05.33 - (WebService): Request of '127.0.0.1:61441' at '/favicon.ico' endpoint. (404)
+18:05.35 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+18:05.36 - (WebService): Request de '127.0.0.1:61441' no endpoint '/tower1'.
+18:05.36 - (WebService): Request de '127.0.0.1:61441' no endpoint '/update.js'.
+18:05.36 - (WebService): Request de '127.0.0.1:61440' no endpoint '/tower1.js'.
+18:05.36 - (WebService): Request de '127.0.0.1:61441' no endpoint '/style.css'.
+18:05.36 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+18:05.36 - (WebService): Request de '127.0.0.1:61441' no endpoint '/clientes'.
+18:05.36 - (WebService): Request de '127.0.0.1:61440' no endpoint '/tamanhos'.
+18:05.36 - (WebService): Request de '127.0.0.1:61432' no endpoint '/tipos'.
+18:05.36 - (WebService): Request de '127.0.0.1:61438' no endpoint '/offset'.
+18:05.36 - (WebService): Request of '127.0.0.1:61439' at '/favicon.ico' endpoint. (404)
+18:05.40 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+18:05.44 - (WebService): Request de '127.0.0.1:61439' no endpoint '/tower1'.
+18:05.44 - (WebService): Request de '127.0.0.1:61439' no endpoint '/update.js'.
+18:05.44 - (WebService): Request de '127.0.0.1:61438' no endpoint '/tower1.js'.
+18:05.44 - (WebService): Request de '127.0.0.1:61432' no endpoint '/style.css'.
+18:05.44 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+18:05.44 - (WebService): Request de '127.0.0.1:61432' no endpoint '/clientes'.
+18:05.44 - (WebService): Request de '127.0.0.1:61438' no endpoint '/tamanhos'.
+18:05.44 - (WebService): Request de '127.0.0.1:61439' no endpoint '/tipos'.
+18:05.44 - (WebService): Request de '127.0.0.1:61440' no endpoint '/offset'.
+18:05.44 - (WebService): Request of '127.0.0.1:61441' at '/favicon.ico' endpoint. (404)
+18:05.50 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+18:05.51 - (WebService): Request de '127.0.0.1:61441' no endpoint '/tower1'.
+18:05.51 - (WebService): Request de '127.0.0.1:61441' no endpoint '/update.js'.
+18:05.51 - (WebService): Request de '127.0.0.1:61440' no endpoint '/tower1.js'.
+18:05.51 - (WebService): Request de '127.0.0.1:61439' no endpoint '/style.css'.
+18:05.51 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+18:05.51 - (WebService): Request de '127.0.0.1:61439' no endpoint '/clientes'.
+18:05.51 - (WebService): Request de '127.0.0.1:61440' no endpoint '/tamanhos'.
+18:05.51 - (WebService): Request de '127.0.0.1:61441' no endpoint '/tipos'.
+18:05.51 - (WebService): Request de '127.0.0.1:61438' no endpoint '/offset'.
+18:05.51 - (WebService): Request of '127.0.0.1:61432' at '/favicon.ico' endpoint. (404)
+18:05.57 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\--.png
+18:05.57 - (WebService): Request de '127.0.0.1:61432' no endpoint '/edit'.
+18:05.57 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\--.png
+18:05.57 - (WebService): Request de '127.0.0.1:61438' no endpoint '/edit'.
+18:05.57 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\--.png
+18:05.57 - (WebService): Request de '127.0.0.1:61441' no endpoint '/edit'.
+18:05.59 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+18:06.02 - (WebService): Request de '127.0.0.1:61441' no endpoint '/tower1'.
+18:06.02 - (WebService): Request de '127.0.0.1:61441' no endpoint '/update.js'.
+18:06.02 - (WebService): Request de '127.0.0.1:61438' no endpoint '/tower1.js'.
+18:06.02 - (WebService): Request de '127.0.0.1:61441' no endpoint '/style.css'.
+18:06.02 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+18:06.02 - (WebService): Request de '127.0.0.1:61441' no endpoint '/clientes'.
+18:06.02 - (WebService): Request de '127.0.0.1:61438' no endpoint '/tamanhos'.
+18:06.02 - (WebService): Request de '127.0.0.1:61432' no endpoint '/tipos'.
+18:06.02 - (WebService): Request de '127.0.0.1:61440' no endpoint '/offset'.
+18:06.02 - (WebService): Request of '127.0.0.1:61439' at '/favicon.ico' endpoint. (404)
+18:06.27 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\--.png
+18:06.27 - (WebService): Request de '127.0.0.1:61439' no endpoint '/edit'.
+18:06.27 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\--.png
+18:06.27 - (WebService): Request de '127.0.0.1:61440' no endpoint '/edit'.
+18:06.27 - (Edit): G:\Outros computadores\Meu laptop\Artes PNG\--.png
+18:06.27 - (WebService): Request de '127.0.0.1:61432' no endpoint '/edit'.
+18:06.29 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+18:06.30 - (WebService): Request de '127.0.0.1:61432' no endpoint '/tower1'.
+18:06.30 - (WebService): Request de '127.0.0.1:61432' no endpoint '/update.js'.
+18:06.30 - (WebService): Request de '127.0.0.1:61440' no endpoint '/tower1.js'.
+18:06.30 - (WebService): Request de '127.0.0.1:61439' no endpoint '/style.css'.
+18:06.30 - Ocorreu um erro em 'WebService.Start' Mensagem de Erro: 'Mensagem customizada não especificada.'
+Informações:
+
+Erro: Exception has been thrown by the target of an invocation.
+Source: System.Private.CoreLib
+StackTrace: 
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WebHost.WebService.Start() in F:\Projects\CSharp\Printer Web Forms\WebHoster\WebService.cs:line 63
+
+Culpado: InvokeMethod()
+18:06.30 - (WebService): Request de '127.0.0.1:61439' no endpoint '/clientes'.
+18:06.30 - (WebService): Request de '127.0.0.1:61440' no endpoint '/tamanhos'.
+18:06.30 - (WebService): Request de '127.0.0.1:61432' no endpoint '/tipos'.
+18:06.30 - (WebService): Request de '127.0.0.1:61438' no endpoint '/offset'.
+18:06.30 - (WebService): Request of '127.0.0.1:61441' at '/favicon.ico' endpoint. (404)

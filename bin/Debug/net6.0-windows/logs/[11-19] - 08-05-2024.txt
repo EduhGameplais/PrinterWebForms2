@@ -1,0 +1,18 @@
+08/05/2024 - 11:16
+
+11:16.27 - (PrintSystem): Criando Torres... (3)
+11:16.27 - (PrintSystem): Criando Impressoras... (3)
+11:16.27 - (PrintSystem):     Torre1: 
+11:16.27 - (PrintSystem):         Impressora1: IMP1
+11:16.27 - (PrintSystem):         Impressora2: IMP2
+11:16.27 - (PrintSystem):         Impressora3: IMP3
+11:16.27 - (PrintSystem):     Torre2: 
+11:16.27 - (PrintSystem):         Impressora1: IMP4
+11:16.27 - (PrintSystem):         Impressora2: IMP5
+11:16.27 - (PrintSystem):         Impressora3: IMP6
+11:16.27 - (PrintSystem):     Torre3: 
+11:16.27 - (PrintSystem):         Impressora1: IMP7
+11:16.27 - (PrintSystem):         Impressora2: IMP8
+11:16.27 - (PrintSystem):         Impressora3: IMP9
+11:16.27 - (WebService): Iniciando Endpoints
+11:16.27 - (WebService): Porta: 80

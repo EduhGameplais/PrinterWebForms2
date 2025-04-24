@@ -1,0 +1,24 @@
+28/08/2024 - 15:33
+
+15:33.30 - (PrintSystem): Criando Torres... (3)
+15:33.30 - (PrintSystem): Criando Impressoras... (3)
+15:33.30 - (PrintSystem):     Torre1: 
+15:33.30 - (PrintSystem):         Impressora1: IMP1
+15:33.30 - (PrintSystem):         Impressora2: IMP2
+15:33.30 - (PrintSystem):         Impressora3: IMP3
+15:33.30 - (PrintSystem):     Torre2: 
+15:33.30 - (PrintSystem):         Impressora1: IMP4
+15:33.30 - (PrintSystem):         Impressora2: IMP5
+15:33.30 - (PrintSystem):         Impressora3: IMP6
+15:33.30 - (PrintSystem):     Torre3: 
+15:33.30 - (PrintSystem):         Impressora1: IMP7
+15:33.30 - (PrintSystem):         Impressora2: IMP8
+15:33.30 - (PrintSystem):         Impressora3: IMP9
+15:33.30 - (PrintSystem): Procurando por clientes...(G:\Outros computadores\Meu laptop\Artes PNG)
+15:33.32 - (SaveSystem): Carregando configurações salvas...
+15:33.32 - (SaveSystem): Arquivos de configurações salvas encontrados: 
+15:33.32 - (SaveSystem):     "Saved\offsets.sdat"
+15:33.32 - (SaveSystem):     "Saved\sizes.sdat"
+15:33.32 - (SaveSystem):     "Saved\types.sdat"
+15:33.32 - (WebService): Iniciando Endpoints
+15:33.32 - (WebService): Porta: 80

@@ -1,0 +1,27 @@
+09/05/2024 - 17:28
+
+17:28.35 - (PrintSystem): Criando Torres... (3)
+17:28.35 - (PrintSystem): Criando Impressoras... (3)
+17:28.35 - (PrintSystem):     Torre1: 
+17:28.35 - (PrintSystem):         Impressora1: IMP1
+17:28.35 - (PrintSystem):         Impressora2: IMP2
+17:28.35 - (PrintSystem):         Impressora3: IMP3
+17:28.35 - (PrintSystem):     Torre2: 
+17:28.35 - (PrintSystem):         Impressora1: IMP4
+17:28.35 - (PrintSystem):         Impressora2: IMP5
+17:28.35 - (PrintSystem):         Impressora3: IMP6
+17:28.35 - (PrintSystem):     Torre3: 
+17:28.35 - (PrintSystem):         Impressora1: IMP7
+17:28.35 - (PrintSystem):         Impressora2: IMP8
+17:28.35 - (PrintSystem):         Impressora3: IMP9
+17:28.35 - (PrintSystem): 
+17:28.35 - (WebService): Iniciando Endpoints
+17:28.35 - (WebService): Porta: 80
+17:28.38 - (WebService): Request de '192.168.3.240:50143' no endpoint '/tamanhos'.
+17:28.38 - (WebService): Request of '192.168.3.240:50143' at '/favicon.ico' endpoint. (404)
+17:28.39 - (WebService): Request de '192.168.3.240:50143' no endpoint '/tamanhos'.
+17:28.39 - (WebService): Request of '192.168.3.240:50143' at '/favicon.ico' endpoint. (404)
+17:28.39 - (WebService): Request de '192.168.3.240:50143' no endpoint '/tamanhos'.
+17:28.39 - (WebService): Request of '192.168.3.240:50143' at '/favicon.ico' endpoint. (404)
+17:28.39 - (WebService): Request de '192.168.3.240:50143' no endpoint '/tamanhos'.
+17:28.39 - (WebService): Request of '192.168.3.240:50143' at '/favicon.ico' endpoint. (404)
